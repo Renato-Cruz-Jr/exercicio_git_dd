@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 alterei o meu arquivo
-=======
 ola, tudo bem
->>>>>>> 8adccea14be18525993b0efbf0538881048f2f37
 Oi. Nova mudança no arquivo no dia 27/08/2023.
